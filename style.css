@@ -1,0 +1,15 @@
+
+.card-text{
+    color: black;
+}
+.nav-link:hover{
+    background-color: white;
+}
+.btn:hover{
+    background-color: rgb(218, 232, 245) !important;
+}
+.nav-link.active{
+    background-color: rgb(240, 94, 155) !important;
+}
+
+  

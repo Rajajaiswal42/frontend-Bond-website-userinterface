@@ -1,0 +1,39 @@
+-----------------------------------------------------------------------------------
+    KINDLY OPEN IN LIVE SERVER
+    -------------------------------------------------------------------------
+
+thoughts on Header file
+-i made a container ,in that a link which is my logo and placed it by using grid method
+-and search icon with the help of form-control and role method
+and a login link and cart link which is made up by fontawesome icon and placed it through by using grid method
+
+and made a bunch navigation links by using bootstrap nav-link
+and middile it justify containt method
+-all the nav-links and btn are hoverd by specific colours
+
+thoughts on footer file
+ i made it simply by using grid method
+ -at the last column i made a list of links that connect specific pages
+
+
+thoughts on home pages
+apart from Header and footer file 
+a centered a image which is my  logo by using bootstrap style (img-fluid)
+ and container ,and in the container i made a carousel items which shows slides of different products
+ 
+
+ thoughts on all products
+ apart from header and footer
+i show specific products which is from mens women section
+ thoughts on women and men  page
+  
+ i just replicate the all products logic in both the page
+
+thoughts on login page
+in login  i made a group of inputs , and using script tag i code the logic behind that shows in alert section
+
+thoughts on cart page
+in cart page i made two cards  on for the price details and one for the quantity and delete details
+
+thoughts on contact us page
+i simply take input group that store the data of user
